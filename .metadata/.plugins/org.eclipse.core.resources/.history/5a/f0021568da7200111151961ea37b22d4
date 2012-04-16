@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">YambaClient</string>
+	<string name="titleYamba">YambaClient</string>
+	<string name="titleStatus">Yamba</string>
+	<string name="hintText">Please enter your 140-character status</string>
+	<string name="buttonSubmit">Submit</string>
+	
+	<string name="menu_item_preferences_text">Preferences</string>
+	<string name="prefs_username_title">User</string>
+	<string name="prefs_username_summary">The user name</string>
+	<string name="prefs_pwd_title">Password</string>
+	<string name="prefs_pwd_summary">The user\'s password</string>
+	<string name="prefs_url_title">URL</string>
+	<string name="prefs_url_summary">The URL of base API</string>
+	<string name="prefs_timeline_pull_service">Activate Timeline Service</string>
+	<string name="prefs_update_interval">UpdateInterval</string>
+	<string name="menu_item_pull_now_text">Pull Now</string>
+</resources>

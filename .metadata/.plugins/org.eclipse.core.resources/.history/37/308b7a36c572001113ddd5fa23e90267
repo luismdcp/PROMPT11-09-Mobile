@@ -1,0 +1,5 @@
+package YambaClient.Package;
+
+public class ConnectivityRevceiver {
+
+}

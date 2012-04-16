@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="warning">#FFFF00</color>
+    <color name="noSpace">#FF0000</color>
+    <color name="ok">#00FF00</color>
+	<integer name="maxChars">140</integer>
+	<integer name="warningThreshold">30</integer>
+	<integer name="noSpaceThreshold">10</integer>
+	<string name="uploadIntentExtraText">TweetText</string>
+</resources>
