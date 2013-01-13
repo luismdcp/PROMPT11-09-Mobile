@@ -1,8 +1,0 @@
-package YambaClient.Package;
-
-import android.app.ListActivity;
-
-public class TweetsListView extends ListActivity
-{
-	
-}
